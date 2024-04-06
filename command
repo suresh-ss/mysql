@@ -1,4 +1,4 @@
-sudo apt uodate 
+sudo apt update 
 sudo apt install mysql-server
 sudo systenctl status mysql.service
 sudo systemctl start mysql.service
